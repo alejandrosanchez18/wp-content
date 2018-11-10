@@ -1,0 +1,22 @@
+== 1.0.4 ==
+Release date: September 24, 2018
+* Enhancement: Added setting "Hide Intro Page" to hide "Getting Started" page
+* Enhancement: Added setting "Hide Footer Message" to hide Elementor's review message from admin footer
+* Enhancement: Added setting "Hide Overview Widget" to hide Elementor's overview admin dashboard widget
+* Fix: Go Pro nerd box was not being hidden due to the latest update of Elementor
+* Fix: "Custom Fonts" admin link was not being hidden with free version of Elementor
+
+== 1.0.3 ==
+Release date: August 31, 2018
+* Enhancement: Added an option to hide WL settings from sub-sites in multisite network
+* Fix: Plugin was not working when Elementor is installed in mu-plugins directory
+* Fix: Knowledge Base and Go Pro link were redirecting to Elementor website
+* Fix: White Label options were not completely working on sub-sites in multisite network
+
+== 1.0.2 ==
+Release date: August 20, 2018
+* Fix: Go Pro links were showing in admin menu and templates library modal box
+
+== 1.0.1 ==
+Release date: August 10, 2018
+* Fix: Elementor admin menu was showing for different user roles
